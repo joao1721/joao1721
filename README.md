@@ -3,6 +3,7 @@
 #
 
 - 💻 atualmente estudando JavaScript, Angular, TypeScript e NodeJS.
+- 
 ![matrix (1)](https://github.com/Eversonnatan/Eversonnatan/assets/106198940/606d7bec-0a8d-4f55-9319-a1c04b44d210)
 <div align="center">
   <a href="https://github.com/joao1721">
